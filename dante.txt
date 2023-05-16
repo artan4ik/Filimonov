@@ -5,5 +5,9 @@ Bang, bang, bang, pull my Devil Trigger
 Embrace the darkness that's within me
 No hiding in the shadows anymore
 When this wickedness consumes me
+<<<<<<< HEAD
 Nothing can save you and there's no way out
 
+=======
+Nothing can save you and there's no way out
+>>>>>>> parent of b74d90d (commit 3)
